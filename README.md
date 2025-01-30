@@ -23,6 +23,6 @@ This project analyzes the genetic differences between the SARS-CoV-2 Delta and O
 ## Contributors
 - [Hadeer Sherif](https://github.com/hadeer-sherif) - Sequence Alignment, Phylogenetic Tree, Documentation
 - [Mariam Hatem](https://github.com/mariam-hatem) - Sequence Alignment, Mutation Analysis, Documentation
-- [Nada Amr](https://github.com/nada-amr) - Data Visualization, Mismatch Identification
+- [Nada Amr](https://github.com/Nadaaomran) - Data Visualization, Mismatch Identification
 - [Salema Abdeltawab](https://github.com/salema-abdeltawab) - Data Processing, Analysis, Documentation
 
